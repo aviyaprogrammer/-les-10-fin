@@ -1,0 +1,107 @@
+body {
+ color:#32325F;
+}
+.subtittle {
+  font-size: 20px;
+  font-weight: 400;
+}
+.about {
+  margin-top: 58px;
+  margin-bottom: 58px;
+}
+strong.title {
+  font-size: 35px;
+}
+
+.button {
+  width: 50px;
+  padding: 5px 10px;
+}
+.button:first-child
+.footer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.description {
+  font-size: 20px;
+  width: 516px;
+}
+.price-tag {
+  font-size: 20px;
+}
+.social {
+  display: block;
+  justify-content: space-between;
+}
+.price {
+  font-size: 48px;
+  font-style: oblique;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-top: 20px;
+}
+.buttons {
+  margin-top: 20px;
+  font-size: 10px;
+  color: white;
+  display: flex;
+}
+.button-1 {
+  margin-right: 10px;
+  display: inline-block;
+  padding: 13px 26px;
+  background-color: #2DCE89;
+  color: white;
+  text-align: center;
+  min-width: 251px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.button-2 {
+  padding: 13px 26px;
+  display: inline-block;
+  background-color: #5E72E4;
+  color: white;
+  text-align: center;
+  min-width: 250px;
+  font-size: 100%;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.main-text {
+  font-size: 48px;
+  color: #32325F;
+}
+.main {
+  margin-top: 100px;
+}
+.img {
+  width: 55px;
+  height: 36px;
+}
+.main-image {
+  width: 50px;
+}
+.block-text {
+  width: 200px;
+}
+.hero {
+  background-color: #F4F5F7;
+  padding-top: 70px;
+  padding-bottom: 190px;
+}
+.footer {
+  background-color: #32325F;
+  color: #FFFFFF;
+}
+.col-3 {
+  width: 258px;
+  padding: 45px;
+}
+h2 {
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
+ p.sblock-text-2 {
+  font-size: 16px;
+}
